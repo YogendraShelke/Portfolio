@@ -1,0 +1,19 @@
+.trending-container {
+    overflow: scroll;
+}
+
+.card-container {
+    padding: 16px 0px 16px 20px;
+    width: 240px;
+    border-radius: 2px;
+    background: #e1e1f1;
+}
+
+.highlited {
+    background: transparent;
+}
+
+.card-title {
+    font-size: 20px;
+    font-weight: 500;
+}

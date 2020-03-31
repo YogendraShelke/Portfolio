@@ -1,0 +1,67 @@
+.detail-card {
+    padding: 16px 20px;
+    min-width: 80px;
+    text-align: center;
+    border-radius: 2px;
+    margin-right: 16px;
+    box-shadow: inset 20px 20px 60px #d5d5d5, 
+            inset -20px -20px 60px #ffffff;
+}
+
+.contributor-card {
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    text-align: center;
+    height: 110px;
+    box-shadow: inset 20px 20px 60px #d5d5d5, 
+            inset -20px -20px 60px #ffffff;
+
+}
+
+.owner-card {
+    padding: 20px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: inset 20px 20px 60px #d5d5d5, 
+            inset -20px -20px 60px #ffffff;
+
+}
+
+.owner-stats {
+    padding-left: 30px;
+}
+
+.owner-image {
+    height: 180px;
+    width: 180px;
+}
+
+.image {
+    height: 60px;
+    width: 60px;
+    margin: 16px 20px 5px 20px;
+    border-radius: 30px;
+}
+
+.owner-stats-card {
+    padding: 10px;
+    width: 70px;
+    text-align: center;
+    border-radius: 2px;
+    margin-right: 10px;
+    margin-top: 10px;
+    box-shadow: inset 20px 20px 60px #d5d5d5, 
+            inset -20px -20px 60px #ffffff;
+}
+
+.owner-stats-label {
+    font-size: 13px;
+}
+
+.stats-row {
+    display: flex;
+    flex-direction: row;
+}
